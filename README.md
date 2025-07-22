@@ -20,7 +20,7 @@ Instructions Received: To create a modern responsive Front-end for the Little Le
 
 Setup and Evaluation
 # Run in the Terminal
-git clone https://github.com/jayantasamaddar/little-lemon-meta-frontend-capstone.git folder
+git clone https://github.com/SayanMondal698/little-lemon-meta-frontend-capstone/
 
 # Install Dependencies
 npm install
